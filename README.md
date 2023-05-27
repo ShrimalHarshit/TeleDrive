@@ -40,7 +40,7 @@ If you're experiencing issues check this https://github.com/mgilangjanuar/teledr
 
 We using the monorepo structure with [yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/).
 
-```
+`'`
 .
 ├── README.md
 ├── package.json
